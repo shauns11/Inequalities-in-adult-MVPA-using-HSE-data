@@ -1,4 +1,4 @@
-**Inequalities in participation and time spent in moderate-to-vigorous physical activity: a pooled analysis of the cross-sectional health surveys for England 2008, 2012, and 2016**
+# **Inequalities in participation and time spent in moderate-to-vigorous physical activity: a pooled analysis of the cross-sectional health surveys for England 2008, 2012, and 2016**
 
 Shaun Scholes<sup>1</sup> and Jennifer S Mindell<sup>1</sup>
 
