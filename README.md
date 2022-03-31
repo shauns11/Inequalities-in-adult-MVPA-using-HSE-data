@@ -2,7 +2,7 @@
 
 Shaun Scholes<sup>1</sup> and Jennifer S Mindell<sup>1</sup>
 
-*BMC Public Health 2020: 20: 361.*
+*BMC Public Health* 2020: 20:361.
 
 <sup>1</sup> Department of Epidemiology and Public Health, University College London, 1-19 Torrington Place, London, WC1E 6BT, United Kingdom.
 
